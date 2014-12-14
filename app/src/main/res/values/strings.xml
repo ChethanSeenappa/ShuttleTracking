@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ShuttleTracking</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="showLocationgps">Show Location (GPS)</string>
+    <string name="showNetworkLocation">Show Location (Network)</string>
+
+</resources>
